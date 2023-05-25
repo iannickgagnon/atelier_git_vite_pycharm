@@ -1,5 +1,8 @@
 if __name__ == '__main__':
-    print('Quatrième version')
+    print('Sixième version')
 
 if __name__ == '__main__':
-    print('Cinquième version')
+    print('Septième version')
+
+if __name__ == '__main__':
+    print('Huitième version')
